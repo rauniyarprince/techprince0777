@@ -1,4 +1,7 @@
-![logo](https://github.com/techprince0777/techprince0777/blob/main/github-header-image.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/techprince0777/github-header-img/main/github-header-image.png" />
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Prince Rauniyar</h1>
 <h3 align="center">MERN Stack Developer | Building Scalable Web Applications</h3>
